@@ -1,0 +1,10 @@
+.TodoItem-loading {
+  background-color: #fafafa4d;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px;
+  box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.15);
+  height: 72px;
+}

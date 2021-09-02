@@ -1,0 +1,7 @@
+.emptyMessage {
+  text-align: center;
+  font-size: 20px;
+  margin: 0px;
+  padding: 100px 48px;
+  color: rgba(0, 0, 0, 0.3)
+}
